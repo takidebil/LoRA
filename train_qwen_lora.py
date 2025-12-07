@@ -3,7 +3,7 @@ from datasets import load_dataset
 import torch
 from torch import nn
 from transformers import AutoTokenizer, AutoModelForCausalLM, Trainer, TrainingArguments
-from peft import LoraConfig, get_peft_model
+from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 
 # -----------------------------
 # CONFIG
@@ -49,6 +49,7 @@ model = AutoModelForCausalLM.from_pretrained(
     load_in_8bit=True,
     torch_dtype=torch.float16
 )
+model = prepare_model_for_kbit_training(model)
 
 model.gradient_checkpointing_enable()
 model.config.use_cache = False
