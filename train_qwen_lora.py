@@ -36,18 +36,9 @@ tokenized_datasets = dataset.map(tokenize_function, batched=True)
 tokenized_datasets.set_format(type="torch", columns=["input_ids", "attention_mask", "labels"])
 
 # -----------------------------
-# LOSS COMPUTE
+# LOSS FUNCTION
 # -----------------------------
 loss_fct = nn.CrossEntropyLoss()
-
-def compute_loss(model, inputs, return_outputs=False):
-    labels = inputs.pop("labels")
-    outputs = model(**inputs)
-    logits = outputs.logits
-    shift_logits = logits[..., :-1, :].contiguous()
-    shift_labels = labels[..., 1:].contiguous()
-    loss = loss_fct(shift_logits.view(-1, shift_logits.size(-1)), shift_labels.view(-1))
-    return (loss, outputs) if return_outputs else loss
 
 # -----------------------------
 # MODEL LOADING
@@ -94,15 +85,24 @@ training_args = TrainingArguments(
 )
 
 # -----------------------------
-# TRAINER
+# CUSTOM TRAINER
 # -----------------------------
-trainer = Trainer(
+class MyTrainer(Trainer):
+    def compute_loss(self, model, inputs, return_outputs=False):
+        labels = inputs.pop("labels")
+        outputs = model(**inputs)
+        logits = outputs.logits
+        shift_logits = logits[..., :-1, :].contiguous()
+        shift_labels = labels[..., 1:].contiguous()
+        loss = loss_fct(shift_logits.view(-1, shift_logits.size(-1)), shift_labels.view(-1))
+        return (loss, outputs) if return_outputs else loss
+
+trainer = MyTrainer(
     model=model,
     args=training_args,
     train_dataset=tokenized_datasets["train"],
     eval_dataset=tokenized_datasets["test"],
-    tokenizer=tokenizer,
-    compute_loss=compute_loss
+    tokenizer=tokenizer
 )
 
 # -----------------------------
