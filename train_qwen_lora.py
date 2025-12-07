@@ -1,7 +1,7 @@
 import os
 from datasets import load_dataset, DatasetDict
 from transformers import AutoTokenizer, AutoModelForCausalLM, Trainer, TrainingArguments
-from peft import LoraConfig, get_peft_model, prepare_model_for_int8_training
+from peft import LoraConfig, get_peft_model
 
 # ------------------------
 # CONFIG
@@ -27,8 +27,6 @@ model = AutoModelForCausalLM.from_pretrained(
     torch_dtype="auto",
 )
 
-# Przy małym VRAM odblokowujemy LoRA + zamrażamy resztę
-model = prepare_model_for_int8_training(model)
 
 # ------------------------
 # LoRA
