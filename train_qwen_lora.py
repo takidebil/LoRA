@@ -27,7 +27,9 @@ model = get_peft_model(model, lora_config)
 dataset = load_dataset("text", data_files={"train": "data/*.txt"})
 
 def tokenize_function(examples):
-    return tokenizer(examples["text"], truncation=True, max_length=1024)
+    tokens = tokenizer(examples["text"], truncation=True, max_length=1024)
+    tokens["labels"] = tokens["input_ids"].copy()
+    return tokens
 
 tokenized_dataset = dataset.map(tokenize_function, batched=True)
 
