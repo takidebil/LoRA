@@ -1,0 +1,655 @@
+<h1 id="1">Rozdział 1</h1>
+<p id="title"> - Kompilujmy się razem</p>
+<p>
+Miłosz Rębisz był typem programisty, który nie wychodził z terminala nawet po północy. Miał Zawsze kubek z zimną kawą po lewej stronie laptopa i wkurzający nawyk poprawiania kodu innych - ale Marcin Ptaszek go za to uwielbiał. <br><br>
+
+Poznali się na wspólnym projekcie w firmie gdzie od razu między nimi iskrzyło. To nie była zwykła współpraca - od pierwszej linijki kodu czuli, że coś się dzieje. Ich pull requesty kończyły się flirtami w komentarzach:<br><br>
+
+<span>
+//Marcin, ten if mnie rozpalił.<br>
+//Miłosz, twój commit zrobił mi dzień.<br>
+</span><br><br>
+
+Z czasem ich rozmowy zeszły z GitHuba na prywatne wiadomości. Gdy Marcin pierwszy raz zaproponował wspólne debugowanie przy winie, Miłosz nie odmówił. Przyszli do siebie z laptopami, ale szybko zapomnieli o kodzie...<br><br>
+
+Miłosz był namiętny, odważny, lubił mieć kontrolę - w kodzie i poza nim. Marcin był bardziej nieśmiały, ale kiedy się rozkręcił... potrafił zawiesić system. Ich noce były pełne dotyku, szeptów i zakazanych funkcji. A rano pisali razem kod tak idealnie zsynchronizowani, że wszyscy w firmie podejrzewali, że mają wspólne zmienne prywatne.<br><br>
+
+Pewnego dnia, podczas hackathonu, Miłosz napisał program, który na pierwszy rzut oka był zwykłą aplikacją pogodową. Ale kiedy Marcin wpisał swoje imię, na ekranie wyświetliło się:<br><br>
+
+<span>
+"Jesteś moją ulubioną zmienną, której nigdy nie nadpiszę."<br>
+</span><br><br>
+
+I wtedy Miłosz uklęknął - nie po to, by oświadczyć się (jeszcze), ale by pocałować go w najbardziej grzeszny sposób, jaki da się opisać w JavaScript.
+</p>
+
+<h1 id="2">Rozdział 2</h1>
+<p id="title"> - Intymne API</p>
+<p>
+Była sobota, deszcz walił w szyby jak nieskończona pętla while(true). Miłosz siedział na kanapie w dresie, z laptopem na kolanach, analizując kod, który Marcin wysłał w nocy. Był genialny, ale też… zostawił w nim wiadomość:<br><br>
+
+<span>
+// Dla Miłosza. Nie mogłem spać. Myślałem o tobie... i o tym, co zrobiliśmy ostatnio.<br>
+</span><br><br>
+
+Miłosz uśmiechnął się pod nosem. Nie odpisał. Wstał, założył koszulkę (bez spodni – standard), i zadzwonił do Marcina.<br><br>
+
+<span>
+– "Masz chwilę? Debuguję coś, co musisz zobaczyć… osobiście."<br>
+</span><br><br>
+
+Dwadzieścia minut później Marcin już był u niego. Przemoknięty, z laptopem w ręku i rumieńcem na policzkach. Ale zanim zdążył coś powiedzieć, Miłosz chwycił go za bluzę i przyciągnął do siebie.<br><br>
+
+<span>
+– "Nie chodzi o kod, Marcin. Chodzi o ciebie."<br>
+</span><br><br>
+
+Pocałunek był głęboki, mokry, tak jak ich pragnienie. Miłosz popchnął go delikatnie na ścianę, ręce Marcina zaczęły błądzić po jego plecach, aż po linię bioder. Ich oddechy przyspieszyły, jakby procesor się przegrzewał. A potem…<br><br>
+
+Miłosz przesunął dłonią po guzikach Marcina, jakby pisał najintymniejszy skrypt. Jednym ruchem rozpiął mu bluzę, drugą ręką rozsunął suwak jego spodni.<br><br>
+
+<span>
+– "Zaraz ci pokażę nową funkcję… prywatną." – wyszeptał Miłosz do ucha.<br>
+</span><br><br>
+
+Marcin jęknął, miękko opierając się o framugę. Był cały dla niego – miękki jak RAM po czyszczeniu, gotowy jak serwer po restarcie.<br><br>
+
+Zniknęli w sypialni, gdzie jedynym językiem był język ciała. Szepty, westchnienia, skasowane wszelkie limity. Dzielili się sobą jak plikami .zip, które rozpakowali bez ostrzeżenia.<br><br>
+
+Tamtej nocy nie było już kodu – tylko oni, skompilowani razem w jednym ciele.
+</p>
+
+<h1 id="3">Rozdział 3</h1>
+<p id="title"> - Bezpieczne Połączenie</p>
+<p>
+Marcin leżał na łóżku Miłosza, rozpięta bluza ledwo trzymała się na jego ramionach, a oczy błyszczały pożądaniem. Miłosz, klęcząc nad nim, wpatrywał się w jego ciało jak w najpiękniejszy kod źródłowy, który pragnął poznać linijka po linijce.<br><br>
+
+<span>
+– "Dziś nie będzie żadnych warunków, żadnych ifów. Tylko czyste wykonanie." – szepnął Miłosz, przesuwając palcami po nagim torsie Marcina.<br>
+</span><br><br>
+
+Zsunął mu spodnie jednym ruchem, jakby odpalał skrypt bez pytania o zgodę. A potem jego język zjechał powoli od szyi w dół, badając każdy fragment skóry, zostawiając za sobą ciepły ślad – jak echo echo w nieskończonej pętli przyjemności.<br><br>
+
+Marcin jęknął cicho, a jego dłonie wplotły się we włosy Miłosza.<br><br>
+
+<span>
+– "Boże, Miłosz… ja…"<br>
+– "Nie mów nic. Przepisuję cię. Na własność."<br>
+</span><br><br>
+
+Miłosz objął ustami to, co tak długo skrywało się pod materiałem. Powoli, z wyczuciem, jakby chciał nauczyć się go na pamięć. Marcina ciało drżało pod jego dotykiem, biodra unosiły się mimowolnie, jakby błagały o więcej.<br><br>
+
+<span>
+– "Nie zatrzymuj się…" – wysapał Marcin.<br>
+</span><br><br>
+
+Miłosz był delikatny, ale pewny siebie. Wiedział, co robi. Wiedział, gdzie dotknąć, jak ugryźć, gdzie przycisnąć, żeby Marcin zadrżał jak niekompilujący się projekt o trzeciej nad ranem.<br><br>
+
+Potem sięgnął po lubrykant, posmarował dwa palce i wpił się w usta Marcina, zanim powoli wsunął je tam, gdzie dostęp był zarezerwowany tylko dla niego. Marcin zgiął się lekko, jęcząc głośniej, nogi oplatając wokół Miłosza.<br><br>
+
+<span>
+– "Chcę cię… teraz."<br>
+</span><br><br>
+
+Miłosz nie potrzebował więcej słów. Nałożył prezerwatywę z wprawą, jakby zakładał bezpieczne połączenie do bazy danych. I wszedł w niego – powoli, z pełną kontrolą, aż do samego końca.<br><br>
+
+Ich ciała zderzały się w rytmie, jakby synchronizowali się w czasie rzeczywistym. Miłosz był głęboko, mocno, z pasją, która przecinała rzeczywistość. Marcin oddawał mu się cały, nie powstrzymując już żadnego dźwięku.<br><br>
+
+Było ostro. Brutalnie pięknie. Ręce ściskały prześcieradła, ciała zlewały się w jedno. Ich jęki mieszały się z odgłosami ciała o ciało, aż w końcu… doszli. Jednocześnie. W eksplozji emocji i płynów.<br><br>
+
+Po wszystkim Miłosz opadł obok, całując Marcina w kark.<br><br>
+
+<span>
+– "To był najlepszy merge, jaki kiedykolwiek zrobiłem."<br>
+– "Zatwierdzam bez review…" – odpowiedział Marcin, ledwo łapiąc oddech.<br>
+</span>
+</p>
+
+<h1 id="4">Rozdział 4</h1>
+<p id="title"> - Zmienne temperatury</p>
+<p>
+Wszystko zaczęło się od tego, że Marcin wpadł do Miłosza po treningu. Spocony, rozgrzany, w przylegającej koszulce i legginsach, które nie zostawiały wiele wyobraźni.<br><br>
+
+<span>
+– "Mogę skorzystać z prysznica?" – zapytał niewinnie, ściągając koszulkę i rzucając ją na fotel.<br>
+</span><br><br>
+
+Miłosz nie odpowiedział. Po prostu patrzył. Oczy mu ściemniały, jakby widział najpiękniejszą funkcję, jaką Bóg kiedykolwiek napisał.<br><br>
+
+<span>
+– "Chcesz… się dołączyć?" – rzucił Marcin, odwracając się z szelmowskim uśmiechem.<br>
+</span><br><br>
+
+To była komenda. Nie pytanie.<br><br>
+
+W łazience para szybko zaczęła pokrywać lustra. Woda leciała gorąca, ale to nie ona grzała atmosferę.<br><br>
+
+Miłosz wślizgnął się za Marcinem do kabiny, od razu chwytając go za biodra i przyciągając do siebie. Ich ciała zderzyły się z głośnym plaśnięciem. Miłosz był już twardy, gotowy, a Marcin… Marcin wyglądał, jakby pragnął wszystkiego, bez żadnych filtrów.<br><br>
+
+<span>
+– "Dzisiaj zmieniamy pozycje. Dosłownie i metaforycznie." – szepnął Miłosz, ściskając Marcina od tyłu.<br>
+</span><br><br>
+
+Język Miłosza zaczął wędrować po karku chłopaka, potem w dół, przez mokre plecy, aż do pośladków, które rozchylił bez ostrzeżenia. Klęknął na kafelkach i zagłębił się między nimi, liżąc go tam, gdzie jeszcze żaden kod nie sięgnął.<br><br>
+
+Marcin zgiął się w pół, dłonie opierając o zimną ścianę prysznica, drżąc z przyjemności.<br><br>
+
+<span>
+– "O KURWA… Miłosz, ja… ja nie wytrzymam…"<br>
+
+– "Jeszcze nie, ptaszku." – odpowiedział z uśmiechem, wciąż pracując językiem, wsuwając go głęboko, mocno, rytmicznie, aż Marcin niemal stracił grunt pod nogami.<br>
+</span><br><br>
+
+Potem, bez słowa, Miłosz stanął, założył prezerwatywę, uniósł Marcina za biodra i wszedł w niego od tyłu – ostro, szybko, bez pytania. Woda spływała po ich ciałach jak olej na gorącej maszynie.<br><br>
+
+Ruchy Miłosza były brutalnie precyzyjne. Ciągnął go za włosy, trzymał za szyję, pieprzył jak dziki zwierz, a Marcin tylko jęczał i błagał o więcej.<br><br>
+
+<span>
+– "Zmieniamy tryb." – rzucił Miłosz, odwracając Marcina przodem.<br>
+</span><br><br>
+
+Podniósł go – całego, w objęciach – i uniósł do ściany. Marcin owinął nogi wokół jego pasa, a Miłosz wszedł z powrotem. Ich ciała zderzały się z kabiną, języki walczyły o dominację, a odgłosy były tak głośne, że sąsiedzi pewnie pomyśleli, że komuś padła karta graficzna.<br><br>
+
+Zbliżali się. Szybko.<br><br>
+
+Miłosz objął Marcina mocniej i szepnął mu do ucha:<br><br>
+
+<span>
+– "Skończ razem ze mną. Teraz."<br>
+</span><br><br>
+
+I wtedy Marcin eksplodował, krzycząc jego imię, zadrżał cały w jego ramionach. Miłosz doszedł chwilę później, wbijając się do końca, drżąc, dysząc, przytulając go jak najdroższy artefakt z internetu.<br><br>
+
+Obaj osunęli się na podłogę kabiny. Zmęczeni. Wyczerpani. Przekompilowani.<br><br>
+
+<span>
+– "To był… najbrutalniejszy runtime w moim życiu." – wyjęczał Marcin.<br>
+– "I mamy jeszcze całą noc na testy jednostkowe." – odpowiedział Miłosz z uśmiechem.<br>
+</span>
+</p>
+
+<h1 id="5">Rozdział 5</h1>
+<p id="title"> - Reset systemu</p>
+<p>
+Ostatnie dni były dziwne.<br><br>
+
+Miłosz zauważył, że Marcin stał się bardziej cichy, wycofany. Wspólne noce były nadal intensywne, ale po wszystkim… milczenie. Żadnych żartów o kodzie. Żadnych porannych buziaków. Tylko chłodny restart.<br><br>
+
+W końcu Miłosz nie wytrzymał.<br><br>
+
+<span>
+– "Co się dzieje?" – zapytał, opierając się o framugę drzwi. – "Zmienna Marcin zachowuje się niestabilnie."<br>
+</span><br><br>
+
+Marcin siedział na łóżku, w bluzie z kapturem, patrząc w podłogę.<br><br>
+
+<span>
+– "A jeśli to wszystko… to tylko fizyczność? Co jeśli nie jesteśmy kompatybilni poza seksem?" – mruknął cicho.<br>
+</span><br><br>
+
+Miłosza to zabolało. Bo kochał go. Całego. Ale nie był dobry w słowach. Działał przez czyny. I miał plan.<br><br>
+
+Kilka godzin później, Marcin wrócił z pracy. Drzwi były uchylone. Na stoliku leżała maska, plastikowy policyjny identyfikator z napisem: Administrator Systemu – Do spraw dyscypliny.<br><br>
+
+I notatka:<br>
+
+<span>
+"System wykrył błędy w zachowaniu jednostki Marcin. Czas na audyt. Rozbierz się i czekaj w pokoju przesłuchań."<br>
+</span><br><br>
+
+Marcin nie wiedział, czy się śmiać, czy uciekać. Ale zrobił, co napisane.<br><br>
+
+Po chwili drzwi do sypialni otworzyły się. Miłosz wszedł w czarnych spodniach, koszuli i okularach, które zwykle zakładał tylko do pracy z kodem. Trzymał linijkę w dłoni. Spojrzał chłodno.<br><br>
+
+<span>
+– "Podejrzany Marcin. Zawiodłeś system. Zaniżone zaangażowanie. Chcesz coś powiedzieć na swoją obronę?"<br>
+
+– "Ja… nie wiem. Może się pogubiłem…" – odpowiedział niepewnie Marcin, cały nagi, zakrywając się rękami.<br>
+
+– "Nie masz prawa głosu. Masz prawo do dyscypliny."<br>
+</span><br><br>
+
+Miłosz podszedł, złapał go za kark i przycisnął do łóżka. Linijka wylądowała na pośladku z głośnym klaśnięciem.<br><br>
+
+<span>
+– Klap! – "Za wątpienie."<br>
+– Klap! – "Za milczenie."<br>
+– Klap! – "Za to, że myślisz, że to tylko fizyczność."<br>
+</span><br><br>
+
+Marcin jęczał, ale już nie z bólu. Całe ciało mu płonęło. Miłosz odrzucił linijkę, rozpiął spodnie i wyszeptał:<br><br>
+
+<span>
+– "Pokażę ci, że jesteś mój. Nie tylko ciałem. Cały, kurwa, ty."<br>
+</span><br><br>
+
+Bez ostrzeżenia wszedł w niego. Mocno. Głęboko. Brutalnie. Chwycił go za szyję, zmuszając do patrzenia w lustro naprzeciwko.<br><br>
+
+<span>
+– "Widzisz to? Widzisz, kto cię trzyma? Kto cię zna lepiej niż ty sam?"<br>
+</span><br><br>
+
+Marcin łkał, ale nie z bólu – z ulgi. Bo wreszcie czuł wszystko. Prawdę. Pewność. Miłość w najdzikszej formie.<br><br>
+
+Ruchy Miłosza przyspieszyły, biodra uderzały o pośladki Marcina z niepowstrzymaną siłą, a ich jęki mieszały się z cichym klap-klap dźwiękiem skóry o skórę.<br><br>
+
+<span>
+– "Jesteś moją zmienną domyślną." – syknął Miłosz, tuż przed wystrzałem.<br>
+</span><br><br>
+
+Marcin doszedł chwilę później, całym sobą, trzęsąc się pod nim jak przeciążony serwer.<br><br>
+
+Po wszystkim leżeli razem. Bez słów. Miłosz objął go ramieniem, przyciągnął do siebie.<br><br>
+
+<span>
+– "Nigdy więcej takich wątpliwości. Kocham cię. Z każdą wersją."<br>
+– "Zawsze aktualizuję się do ciebie." – odpowiedział Marcin szeptem.<br>
+</span>
+</p>
+
+<h1 id="6">Rozdział 6</h1>
+<p id="title"> - Między klamrą a sercem</p>
+<p>
+
+Miłosz od kilku dni chodził jak cień. Marcin zauważył, że coś w nim pękło – zniknęły cięte riposty, uśmiechy, nawet wspólne żarty o kodzie nie działały. Jego oczy były zmęczone. Smutne. Jakby gdzieś się zgubił.<br><br>
+
+W końcu Marcin nie wytrzymał. Znalazł go na kanapie, w tej samej bluzie, którą nosił trzy dni z rzędu, z laptopem na kolanach, ale ekran był czarny.<br><br>
+
+<span>
+– "Miłosz… coś się dzieje. Powiedz mi." – jego głos był miękki, bez presji. Ale pełen troski.<br>
+</span><br><br>
+
+Miłosz westchnął. Długo milczał. A potem powiedział cicho:<br><br>
+
+<span>
+– "Boję się, że cię stracę. Że ci się znudzę. Że któregoś dnia stwierdzisz, że nie jestem wystarczający."<br>
+</span><br><br>
+
+Te słowa były jak zatrzymanie serwera w środku deploya. Marcin usiadł obok niego, dotknął jego dłoni. Była zimna. Trzęsła się lekko.<br><br>
+
+<span>
+– "Dlaczego tak myślisz?"<br>
+– "Bo cały czas daję z siebie 200%. W łóżku. W rozmowach. W gestach. Ale boję się, że jak przestanę… to przestaniesz mnie chcieć."<br>
+</span><br><br>
+
+Marcinowi zadrżała warga. Zawsze widział Miłosza jako twardego, pewnego siebie. A teraz… widział chłopaka, który po prostu kochał za mocno.<br><br>
+
+Bez słowa przytulił go. Mocno. Głęboko. Nie erotycznie – po prostu… prawdziwie.<br><br>
+
+<span>
+– "Miłosz… nie jestem z tobą, bo jesteś spektakularny. Jestem z tobą, bo jesteś mój. Bo jesteś ciepły, lojalny, namiętny… bo sprawiasz, że czuję się widziany. I to nie zależy od twoich popisów. Kocham cię. Nawet w najcichszej wersji."<br>
+</span><br><br>
+
+Miłosz zadrżał. Ułożył głowę na ramieniu Marcina. Nie płakał – ale pierwszy raz od dawna pozwolił sobie na bezbronność.<br><br>
+
+Leżeli tak długo. Cisza była gęsta, ale dobra. Potrzebna. Lecząca.<br><br>
+
+Marcin w końcu zapytał cicho:<br><br>
+
+<span>
+– "Pozwolisz mi się dziś tobą zaopiekować? Tak po prostu… dać ci oddech?"<br>
+</span><br><br>
+
+Miłosz kiwnął głową. Marcin zaprowadził go do łóżka. Rozebrał go powoli – nie jak kochanka, tylko jak kogoś kruchego, kogo trzeba chronić. Ułożył go pod kocem, przytulił od tyłu, całując kark.<br><br>
+
+Potem całował go dalej, delikatnie, wolno – jakby mówił przez skórę "jesteś bezpieczny". Gdy ich ciała się złączyły, nie było tam pożądania – tylko miłość. Ciepła. Cicha. Mocna.<br><br>
+
+Miłosz dochodził pierwszy, z cichym westchnieniem. Marcin – chwilę później, wtulony w niego, jakby chciał zniknąć w jego ramionach.<br><br>
+
+Po wszystkim nie mówili nic. Ale nie musieli.<br><br>
+
+System był naprawiony. Miłość – zalogowana na nowo.
+</p>
+
+<h1 id="7">Rozdział 7</h1>
+<p id="title"> - Echo dzieciństwa</p>
+<p>
+
+Był późny wieczór. Marcin siedział na podłodze pod oknem, z kubkiem herbaty, której nawet nie pił. Patrzył gdzieś daleko, jakby widział coś, czego Miłosz nie mógł dostrzec. Milczał już prawie godzinę.<br><br>
+
+Miłosz obserwował go z kanapy. Znał to spojrzenie. Sam tak kiedyś patrzył – gdy wracały demony.<br><br>
+
+Podszedł cicho i usiadł obok niego, nie mówiąc nic. Dopiero po dłuższej chwili spytał:<br><br>
+
+<span>
+– "Tam jesteś… czy gdzieś indziej?"<br>
+</span><br><br>
+
+Marcin uśmiechnął się smutno.<br><br>
+
+<span>
+– "Tam. Gdzie zawsze wracam, jak jestem zmęczony. Do dzieciństwa. Do domu, który bardziej ranił niż chronił."<br>
+</span><br><br>
+
+Miłosz odchylił głowę, zamknął oczy. To był ten moment. Taki, którego się nie prowokuje – tylko się go przyjmuje.<br><br>
+
+Marcin mówił dalej.<br><br>
+
+<span>
+– "Mój ojciec… całe życie mówił, że jestem miękki. Że mężczyzna nie płacze. Że mam być silny, twardy, niewzruszony. Więc udawałem. Nawet jak płakałem po cichu w pokoju, to rano byłem uśmiechnięty. Do dziś się tego nie oduczyłem."<br>
+</span><br><br>
+
+Miłosz nie komentował. Tylko wziął jego dłoń i ścisnął mocno.<br><br>
+
+<span>
+– "A potem poznałem ciebie." – Marcin spojrzał mu w oczy. – "I nagle okazało się, że mogę płakać. I nie stracę cię przez to. Że nie muszę być ‘idealnym partnerem’. Że mogę być… po prostu sobą."<br>
+</span><br><br>
+
+W oczach Miłosza pojawiły się łzy. Prawdziwe. Ciche.<br><br>
+
+<span>
+– "To ty dałeś mi to samo." – odpowiedział szeptem. – "Ja całe życie budowałem mur z żartów, seksu, ironii. Ale ty przyszedłeś z latarką i powiedziałeś: ej, pokaż mi co tam masz pod spodem. I nie uciekłeś, kiedy zobaczyłeś, że nie jestem idealny."<br>
+</span><br><br>
+
+Siedzieli obok siebie, trzymając się za ręce jak dzieci, które nie chcą już więcej grać dorosłych.<br><br>
+
+<span>
+– "Czasem myślę…" – odezwał się Marcin. – "…że nie zasługuję na ciebie. Że kochasz mnie bardziej, niż ja siebie."<br>
+</span><br><br>
+
+Miłosz odetchnął głęboko. Przyciągnął go do siebie, opierając jego głowę na swoim ramieniu.<br><br>
+
+<span>
+– "A ja czasem myślę, że nie zasługuję na twoją dobroć. Na to, jak się mną opiekujesz, gdy mam gorszy dzień. Ale może… może nie chodzi o zasługi. Może po prostu jesteśmy dwoma niedoskonałymi ludźmi, którzy się spotkali i próbują razem uleczyć."<br>
+</span><br><br>
+
+Marcin objął go mocno. Milczeli, ale tym razem była to pełna treści cisza.<br><br>
+
+W tamtym momencie nie było seksu, nie było gry, nie było żadnych masek. Było dwóch chłopaków, którzy rozbierali się nie z ubrań, a z ran. Krok po kroku. Powoli. Prawdziwie.<br><br>
+
+I właśnie wtedy, obok siebie, bez dotyku, bez pożądania – byli najbliżej, jak kiedykolwiek wcześniej.<br><br>
+</p>
+
+
+
+
+
+
+
+<h1 id="8">Rozdział 8</h1>
+<p id="title"> - Zderzenie światów | (trzeci gracz)</p>
+<p>
+
+Było sobotnie popołudnie. Marcin dopinał ostatnie rzeczy przed jutrzejszym spotkaniem z rodziną. Miłosz krzątał się po kuchni, nucąc coś pod nosem. I wtedyzadzwonił telefon.<br><br>
+
+<span>
+- "Halo?"<br>
+- "Miłosz? Tu Aleks. Wpadłem do miasta na kilka dni, pamiętasz mnie jeszcze?"<br>
+- "Aleks?! Kurwa, no pewnie. Dawno cię nie było! Wpadnij na kolację! Mieszkam teraz z moim chłopakiem, poznacie się."<br>
+</span><br><br>
+
+Marcin usłyszał ton głosu Miłosza - radosny, swobodny, inny niż zwykle. Coś mu ścisnęło żołądek.<br><br>
+
+Wieczorem Aleks przyszedł. Wysoki, zadbany, uśmiechnięty. Miał na sobie ciemną koszulę, trochę artystyczny vibe. Od razu przywitał Marcina jak starego kumpla.<br><br>
+
+<span>
+- "Miłosz opowiadał mi o tobie. Mówił, że jesteś jego największą zmienną logiczną." - zażartował.<br>
+</span><br><br>
+
+Miłosz zaśmiał się głośno. Marcin - tylko się uśmiechnął. Coś w sposobie, w jaki Aleks patrzył na Miłosza... drażniło.<br><br>
+
+Przez cały wieczór Aleks i Miłosz wspominali stare czasy - jak uczyli się razem programować, jak spali w jednym pokoju na hackathonach. Śmiech, spojrzenia, żarty z podtekstem.<br><br>
+
+Marcin czuł się jak trzeci w ich historii. Jakby ktoś inny nagle miał do Miłosza <i>kod źródłowy,</i> którego on sam nie znał.<br><br>
+
+Późnym wieczorem, gdy Aleks wyszedł, zapadła cisza.<br><br>
+
+<span>
+- "Fajny chłopak, co?" - rzucił Miłosz.<br>
+- "Mhm." - Marcin tylko spojrzał w bok.<br><br>
+
+- "Co jest?"<br>
+- "Nic. Po prostu... wygląda na kogoś, kto dobrze cię zna."<br>
+- "Bo zna. Ale to było kiedyś. Ty jesteś teraz."<br>
+</span><br><br>
+
+Marcin skinął głową. Ale coś w jego sercu już się rozregulowało. Nie przez Aleksa - ale przez <b>siebie.</b> Przez swoje lęki.<br><br>
+</p>
+
+<h1 id="9">Rozdział 9</h1>
+<p id="title"> - Zawieszenie</p>
+<p>
+
+W ich mieszkaniu zaczęło robić się cicho. Ale nie spokojnie - tylko ciężko. Jakby powietrze było gęstrze niż kiedyś. Marcin siedział więcej przy komputerze, mniej patrzył Miłoszowi w oczy. Miłosz próbował zagadywać, żartować... Ale śmiech nie wracał.<br><br>
+
+Razem, a jakby osobno.<br><br>
+
+Wieczorem, Miłosz wszedł do sypialni. Marcin leżałna łóżku, telefon w ręce, bez słowa.<br><br>
+
+<span>
+- "Masz chwilę?" - zapytał cicho.<br>
+- "Zawsze mam chwilę, ale nie zawsze mam siłę." - odpowiedział bez złośliwości, bardziej... zrezygnowaniem.<br>
+</span><br><br>
+
+Miłosz usiadł obok. Cisza. W końcu powiedział:<br>
+<span>
+- "Wiem, że się oddaliłeś. Wiem, że coś cię gryzie. Ale ja nie czytam w kodzie twoich emocji. Musisz mi powiedzieć, co się dzieje."<br>
+</span><br><br>
+
+Marcin spuścił wzrok.<br>
+<span>
+- "Nie wiem. Czuję się... gorszy. Jakbyś był coraz dalej, a ja ciągle stał w miejscu. A potem pojawił się Aleks. I przypomniałem sobie, że jesteś kimś, w kim można się zakochać od razu. A ja? Ciągle mam zacięcia..."<br>
+</span><br><br>
+
+Miłosz nie wytrzymał. Przysunął się bliżej.<br>
+<span>
+- "Zakochałem się w tobie właśnie przez te zacięcia. Przez to, że jesteś prawdziwy. Nie idealny. Ale szczery."<br>
+</span><br><br>
+
+Marcin milczał, ale jego dłoń lekko dotknęła ręki Miłosza.<br>
+Ten odwrócił się, spojrzał mu w oczy.<br><br>
+
+Było w tym spojrzeniu wszystko, czego im brakowało przez ostanie dni - tęsknota, złość, pożądanie i... ulga.
+Bez słów zaczął go całować. Głęboko, intensywnie, z frustracją. Ich ustasię zderzały, ich dłonie szarpały koszulki. Marcin od razu poddał się temu impulsowi - jakby czekał na zgodę, żeby <i>przestać uciekać.</i><br><br>
+
+Zrzucili z siebie ubrania, nie jak kochankowie, a jak dwie burze, które się właśnie zderzyły.<br><br>
+
+Miłosz pocałował go w kark, w szyję, potem niżej, przyciągając ciało Marcina do siebie.było ostro, niecierpliwie, ale namiętnie. Jakby chcieli przebić się przez całą niepewność, jaka ich rozdzielała.<br><br>
+
+Między jękami słychać byłoszeptanie:<br>
+<span>
+- "Przepraszam."<br>
+- "Ja też."<br>
+- "Nie odchodź."<br>
+- "Nigdy."<br>
+</span><br><br>
+
+Gdy opadali na siebie, zmęczeni,spoceni, ale spokojni - czuli się znów blisko. Jakby wszystko, co nie zostało powiedziane wcześniej, teraz wypowiedziały ich ciała.<br><br>
+
+Marcin położył głowę na klatce piersiowej Miłosza i zamknął oczy.<br>
+<span>
+- "Boję się tylko jednego..."<br>
+- "Czego?"<br>
+- "Że to wszystko kiedyś się skończy. I zostanę z niczym."<br>
+</span><br><br>
+
+Miłosz pocałował go w czoło.<br>
+<span>
+- "To nie bajka. Ale jeśli się skończy, to tylko wtedy, gdy przestaniemy walczyć. A ja wciąż chcę walczyć. A ty?"<br>
+</span><br><br>
+
+Marcin powiedział cicho:<br>
+<span>
+- "Ja też. Ale czasem zapominam jak..."<br>
+</span><br><br>
+
+I wtedy zasnęli. Prawdziwie. Bez udawania. Zmęczeni walką, ale w tym samym łóżku. Razem.
+</p>
+
+
+
+
+
+
+<h1 id="10">Rozdział 10</h1>
+<p id="title"> - Między liniami kodu</p>
+<p>
+
+Marcin nie chciał tam jechać. Ale nie miał wyjścia. Rodzinny obiad - kolejna okazja, by ojciec spojrzał mu prosto w oczy i udawał, że wszystko jest jak trzeba, a potem wbijał szpilkę, jakby od niechcenia.<br><br>
+
+<span>
+- "Widziałem cię z tym chłopakiem, Miłoszem. W mieście. Trochę... za bardzo się do ciebie tulił, nie sądzisz?"<br>
+- "Nie sądzę."<br>
+- "Ty wiesz, że ja nie mam nic przeciwko... ale nie rób z siebie pajaca, dobra?"<br>
+</span><br><br>
+
+Marcin nie odpowiedział. Już nie miał siły.<br><br>
+
+Wyszedł przedwcześnie. Wsiadł do auta i pojechał byle gdzie. Wylądował w jakimś małymbarze na obrzeżach. Ciemne światła, muzyka, zero pytań. Wypił jedno piwo. Potem drugie.<br><br>
+
+I wtedy go zobaczył. Nie pytał o imię. Nie pytał skąd. Mężczyzna - około 30-tki, z brodą, tatuażem i spojrzeniem, które mówiło: <i>też chcę zapomnieć.</i> Rozmawiali dwie minuty. Wyszli na zewnątrz. Całowali się w zaułku jakby świat nie istniał. Marcin nie myślał - działał. Chciał tylko, by <i>ktoś</i> go dotknął, żeby nie czuł się niewidzialny.<br><br>
+
+Palce w jego włosach. Zęby na karku. Oparty o mur, dyszał ciężko, gdy tamten wsunął dłoń pod jego spodnie. Wszystko było szybkie, brutalne, instynktowne. Nie było delikatności. Była potrzeba.<br><br>
+
+Kiedy skończyli, obcy zapalił papierosa i powiedział:<br>
+<span>
+- "Nieźle cię ktoś rozjebał."<br>
+</span><br><br>
+
+Marcin nie odpowiedział. Po prostu odszedł.<br><br>
+
+Wrócił do mieszkania późno. Miłosz był na kanapie, oglądał coś na laptopie.<br><br>
+
+<span>
+- "I jak było?" - spytał bez entuzjazmu.<br>
+- "Normalnie."<br>
+- "Kłamiesz."<br>
+- "Zamknij się." - warknął Marcin.<br>
+</span><br><br>
+
+Miłosz podniócł się, podszedł do niego. Zobaczył to w jego oczach - rozbite szkło. Nie pytał. Zamiasttego, pocałował go. Delikatnie. Ale Marcin odpowiadał agresywnie - złapał go za szyję, przyciągnął do siebie i zaczął całować mocno, niemal desperacko.<br><br>
+
+<span>
+- "Nie teraz słodko. Chcę cię poczuć. Całego." - szepnął mu do ucha.<br>
+- "To mnie weź." - odpowiedział Miłosz i od razu się obrócił, pchając Marcinana ścianę.<br>
+</span><br><br>
+
+Zrzucili z siebie ciuchy, ledwo trafiającdo sypialni. Marcin był jak dzikie zwierzę - pieścił, lizał, gryzł,przyciskał. Ich ciała kleiły się do siebie, ścierały, jęczały. Miłosz klęknął przed nim, spojrzał w górę i bez słowa zrobił to, co Marcin uwielbiał najbardziej. Głęboko, powoli, brutalnie.<br><br>
+
+Marcin jęknął:<br>
+<span>
+- "Kurwa, właśnie tego chciałem..."<br>
+</span><br><br>
+
+Potem zamiana. Miłosz leżał na brzuchu, dyszał ciężko, gdy Marcin wszedł w niego gwałtownie, całując mu kark i trzymając za nadgarstki.<br>
+To nie był sekszz miłości. To było jak wojna. <i>Potrzeba.</i> Żeby się złączyć, choć na chwilę.<br><br>
+
+Kiedy skończyli, leżeli obok siebie, spoceni, wykończeni. Żaden nie mówił przez dłuższą chwilę.<br><br>
+
+Aż Miłosz zapytał:<br>
+<span>
+- "Spałeś z kimś innym?" - Marcin zamarł. Spojrzał w sufit.<br>
+- "Nie wiem, czy to się liczy jako spanie."<br>
+</span><br><br>
+
+Miłosz tylko skinął głową.<br>
+<span>
+- "Nie chcę wiedzieć. Ale nie rób tego więcej. Bo jak jeszcze raz poczuję, że cię tracę... nie wiem, czy się pozbieram."<br>
+</span><br><br>
+
+Marcin przyciągnął go do siebie.<br>
+<span>
+- "Nie chcę cię stracić. Ale... czasem nie wiem, jak być z tobą."<br>
+</span><br><br>
+
+Miłosz szepnął:<br>
+<span>
+- "To uczmy się razem."<br>
+</span>
+
+</p>
+
+
+
+
+<h1 id="11">Rozdział 11</h1>
+<p id="title"> - Debugowanie uczucia</p>
+<p>
+
+Marcin obudził się pierwszy. Miłosz leżał obok z głową wciśniętą w jego kark, mrucząc przez sen coś niezrozumiałego jakby próbował odpalić Dockera w snach. Pokój pachniał potem, silikonem i… curry mango? No tak. Żel, który zamówili z błędem w opisie. “Delikatnie chłodzący” okazał się rozgrzewającą bombą o smaku tajskiej zupy.<br><br>
+
+Miłosz zamruczał:<br>
+<span>
+– Czemu mnie piecze język?<br>
+</span><br><br>
+
+Marcin zaśmiał się pod nosem.<br>
+<span>
+– Bo próbowałeś lizać mnie w czasie, gdy miałeś na twarzy chili-glide deluxe.<br>
+</span><br><br>
+
+Miłosz spojrzał na niego zdezorientowany, ale uśmiechnął się jak idiota.<br>
+<span>
+– Dobrze, że nie próbowałem jeść cię przez nos.<br>
+</span><br><br>
+
+Kuchnia była zawalona pudełkami z dziwnymi zabawkami, które testowali wieczór wcześniej. Znalazł się tam m.in.:<br>
+<span>
+	•	Analizator ciśnienia penisa (z wykresem na smartfonie)<br>
+	•	Wibrujące kulki sterowane przez Alexa (który zaczął reagować na słowo “jęknij”)<br>
+	•	Pozycjoner erotyczny “Góra-dół-X”, który wyglądał jak konstrukcja z Ikei, ale działał jak wirująca kara za grzechy<br>
+	•	I oczywiście: dildo-joystick, które miało wibracje reagujące na emocje gracza. Nie pytaj.<br>
+</span><br><br>
+
+Miłosz nie był do końca sobą. Był spięty. I nie tylko przez wczorajszą próbę „mostka kodera” – pozycji, która zakończyła się tym, że jedno z nich utknęło między biurkiem a krzesłem.<br><br>
+
+<span>
+– Ktoś grzebał w moim kodzie – powiedział nagle Miłosz, podnosząc głowę znad laptopa. – Naprawdę. Mam w projekcie zmienioną funkcję, której nie pisałem. I ma sygnaturę z IP spoza sieci domowej.<br>
+</span><br><br>
+
+<span>
+Marcin uniósł brew. – Może ty sam to wpisałeś po jednej z tych… zabawek. Może joystick ci coś kliknął.<br><br>
+
+– To nie jest śmieszne.<br><br>
+
+– Jest trochę – przyznał Marcin. – Ale jeśli mówisz poważnie, to… sprawdzimy logi.<br>
+</span><br><br>
+
+Miłosz sięgnął po telefon. Nagle: dźwięk dzwonka. Nie ich standardowy. Coś jakby… jęk?<br><br>
+
+<span>
+– Co to kurwa było?<br><br>
+
+– Dźwięk powiadomienia z tej nowej aplikacji. „GaspMe”. Ona zapisuje momenty najwyższej intensywności akustycznej i robi z nich dzwonki.<br>
+</span><br><br>
+
+Na ekranie powiadomienie:<br><br>
+
+<i><b>„Nowy dźwięk zarejestrowany: >‘UUUGHH MARCIN JEB MNIE JAK NIGDY’< – chcesz ustawić jako alarm?”</b></i><br><br>
+
+Miłosz kliknął <b>„tak”.</b><br><br>
+
+
+
+Wieczorem nie było już śmiesznie.<br><br>
+
+Miłosz siedział w ciemności, gapiąc się w plik o nazwie „SESSION_ALEKS_01”.<br><br>
+Nie wiedział, czy kliknąć. Bał się. Marcin podszedł do niego powoli. Położył mu dłoń na karku.<br><br>
+
+<span>
+– Hej. Kochasz mnie jeszcze?<br>
+</span><br><br>
+
+Miłosz nie odpowiedział. Ale odwrócił się, złapał go za szyję i pociągnął na siebie.<br><br>
+
+Seks tej nocy był inny. Zaczęli od siodełka mechanicznego, które mieli testować dla jakiegoś startupu. Potem: wciąganie siebie nawzajem w „piramidę błogości”, czyli pozycję, w której żadne z nich nie wiedziało, gdzie zaczyna się które ciało.<br><br>
+
+Był śmiech. Był krzyk. Były buttplugi z czujnikami wilgotności (dlaczego istniały, nikt nie wiedział). Ale potem – była cisza.<br><br>
+
+Marcin zasnął pierwszy. Miłosz siedział przy komputerze.<br>
+Kliknął.<br>
+Plik się otworzył.<br><br>
+
+Na ekranie: nagranie jego i Aleksa… sprzed kilku tygodni. Zbyt bliskie. Zbyt realne.<br>
+Ale to nie był on.<br>
+Albo… nie taki, jak się pamiętał.<br><br>
+
+Miłosz poczuł dreszcz. Odwrócił się do łóżka.<br>
+Spojrzał na Marcina.<br>
+Wyszeptał:<br><br>
+
+<span>
+– Kurwa… jeśli to nie ja… to kto?<br>
+</span>
+
+</p>
