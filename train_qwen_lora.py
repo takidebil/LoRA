@@ -1,6 +1,7 @@
 import os
 from datasets import load_dataset
 import torch
+from torch import nn
 from transformers import AutoTokenizer, AutoModelForCausalLM, Trainer, TrainingArguments
 from peft import LoraConfig, get_peft_model
 
@@ -27,10 +28,26 @@ if tokenizer.pad_token is None:
     tokenizer.pad_token = tokenizer.eos_token
 
 def tokenize_function(examples):
-    return tokenizer(examples["text"], truncation=True, padding="max_length", max_length=512)
+    tokens = tokenizer(examples["text"], truncation=True, padding="max_length", max_length=512)
+    tokens["labels"] = tokens["input_ids"].copy()
+    return tokens
 
 tokenized_datasets = dataset.map(tokenize_function, batched=True)
-tokenized_datasets.set_format(type="torch", columns=["input_ids", "attention_mask"])
+tokenized_datasets.set_format(type="torch", columns=["input_ids", "attention_mask", "labels"])
+
+# -----------------------------
+# LOSS COMPUTE
+# -----------------------------
+loss_fct = nn.CrossEntropyLoss()
+
+def compute_loss(model, inputs, return_outputs=False):
+    labels = inputs.pop("labels")
+    outputs = model(**inputs)
+    logits = outputs.logits
+    shift_logits = logits[..., :-1, :].contiguous()
+    shift_labels = labels[..., 1:].contiguous()
+    loss = loss_fct(shift_logits.view(-1, shift_logits.size(-1)), shift_labels.view(-1))
+    return (loss, outputs) if return_outputs else loss
 
 # -----------------------------
 # MODEL LOADING
@@ -84,7 +101,8 @@ trainer = Trainer(
     args=training_args,
     train_dataset=tokenized_datasets["train"],
     eval_dataset=tokenized_datasets["test"],
-    tokenizer=tokenizer
+    tokenizer=tokenizer,
+    compute_loss=compute_loss
 )
 
 # -----------------------------
