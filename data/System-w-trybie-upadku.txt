@@ -1,0 +1,203 @@
+Rozdział 1 - Init: Nowy Użytkownik
+
+Deszcz padał jak przerywany strumień danych - chaotyczny, nie do przewidzenia, ale nieunikniony.
+Kamil Filipek siedział na dachu stacji metra, z laptopem na kolanach i kablem USB w ustach. Jego palce latały po klawiaturze jak w transie, a oczy błyszczały refleksem z ekranu.
+
+
+> 'root@rebellion:~# sudo rm -rf /state/propaganda'
+
+
+Wcisnął ENTER.
+
+W tej samej chwili, na placu Trzech Władz, ekrany gigantycznych billboardów zamarły. Zamiast uśmiechniętego ministra ds. Cyfrowej Zgodności - pojawił się tylko czarny ekran z białym tekstem:
+
+
+> "Nie jesteście bezpieczni. Jesteście śledzeni. Ale nie jesteście sami."
+> - Kompilacja
+
+
+Tłum zamarł. Ktoś krzyknął. Inni zaczęli nagrywać. Ale Kamil już nie patrzył.
+Odwrócił się, zdjął kaptur i spojrzał w stronę schodów.
+
+Tam, w cieniu, stał Aleksander Dudziak - w czarnym płaszczu, z pendrive'em w dłoni i spojrzeniem, które mówiło: "Zrobiłeś to. Teraz uciekaj."
+
+
+
+*2 godziny wcześniej - Safe House Gamma*
+
+
+Safe House Gamma wyglądał jak porzucona księgarnia - półki pełne papierowych książek ("nie da się ich zahackować"), zapach kawy i wilgoci, i brak chociaż jednego kabla Internetowego w promieniu 500 metrów.
+
+
+– "To szalona idea" - powiedział Aleks, nie odrywając wzroku od ekranu z mapą ruchu służb.
+- "Wszystkie dobre pomysły są szalone" - odparł Kamil, rozpinając spodnie i siadając na kolanach Aleksa bez uprzedzenia.
+
+
+Aleks westchnął, ale nie protestował. Już się przyzwyczaił - Kamil komunikował się przez ciało, nie przez słowa.
+
+
+– "Jeśli cię złapią..."
+- "To mnie nie złapią." - Kamil przyciągnął jego głowę do swojej szyi i szepnął:
+- "Bo ty mnie... wyłapiesz."
+
+
+Ich usta zderzyły się - nie jak kochankowie, ale jak dwa systemy, które próbują się zsynchronizować w chaosie.
+Aleks dotknął jego bioder, a potem - bez pytania - wsunął dwa palce do jego ust.
+Kamil zaczął je ssać powoli, patrząc mu prosto w oczy.
+
+
+– "Chcesz, żebym ci pomógł się zrelaksować przed misją?" - zapytał Aleks, wyciągając palce i przesuwając rękę do paska Kamila.
+- "Chcę, żebym czuł cię w sobie, zanim zniszczę ich system."
+
+
+Aleks nie potrzebował więcej. Rozpiął mu spodnie, przycisnął go do regału z encyklopediami i wszedł w niego palcami - powoli, brutalnie, jak debuger w kod obcego programisty.
+
+Kamil zgiął się w pół, cicho jęcząc, a jego dłonie zacisnęły się na książkach poetyckich - ironiczne użycie treści dawnych epok do wspierania nowej rewolucji.
+
+
+– "Teraz... będzie ostro" - wysapał Aleks, zakładając na palec cienki, czarny materiał - wbudowany w rękawiczkę moduł wibracyjny, stworzony przez Miłosza do "terapii stresu po misjach".
+
+
+Gdy aktywował go - Kamil jęknął głośno, a jego oczy zamknęły się na moment.
+
+
+– "Kurwa... Miłosz naprawdę przemyślał każdy szczegół."
+- "On wie, że seks to jedyna rzecz, której rząd nie potrafi zaszyfrować."
+
+
+Po kilku minutach, Kamil osunął się na podłogę, zasmarkany, zadowolony, gotowy.
+Aleks pomógł mu wstać, podał wodę i rzucił:
+
+– "Masz 7 minut na atak. Potem ich serwery zauważą anomalię."
+- "Wystarczy." - Kamil uśmiechnął się, wkładając do kieszeni mały, czarny przedmiot - kompaktowy strapon z wbudowanym enkoderem.
+- "Na wypadek, gdyby trzeba było zakodować wiadomość... bezpośrednio."
+
+
+
+*Teraz - dach stacji metra*
+
+
+
+Aleks złapał Kamila za rękę i pociągnął w stronę wyjścia awaryjnego.
+
+– "Biegnij. Ja za tobą."
+- "A jeśli nas rozdzielą?"
+- "Wtedy... spotkamy się tam, gdzie kod się kończy."
+
+
+Kamil kiwnął głową. Wiedział, o co chodzi. Miłosz i Marcin stworzyli to miejsce - ostatni bezpieczny punkt, do którego można dotrzeć tylko przez analogowe mapy i papierowe hasła.
+
+
+
+Flashback - fragment dziennika Marcina (ukryty w kodzie safe house'u)
+
+
+
+
+> "Dziś Miłosz zapytał, czy wciąż go kocham. Nie powiedziałem mu, że każdego dnia boję się, że to ja go zniszczę. Ale kocham go tak mocno, że gotów jestem zniszczyć dla niego cały świat."
+>
+> Tylko... niech nie wie.
+
+
+
+
+
+*Rozdział 2 – „Fork: Ukryta Gałąź”*
+
+*Centrum miasta – 03:17 nad ranem*
+
+Bezpieczeństwo w siedzibie Ministerstwa Cyfrowej Zgodności było *mityczne* – mówiono, że nawet ptaki unikają tego budynku, bo ich sygnały GPS są analizowane pod kątem „podejrzanych wzorców lotu”.
+
+Ale Kamil nie był ptakiem.  
+Był *demonem w ciele programisty*, a jego jedynym narzędziem był *stary laptop z wypalonym logiem producenta i pendrive zakodowany podwójnym AES-em* – ten sam, który dał mu Aleksander na dachu.
+
+Teraz stał przed *bocznym wejściem serwerowni podziemnej*, ubrany w uniform technika. Na twarzy – maska termiczna, by uniknąć rozpoznania przez kamery cieplne. W kieszeni – *mały, czarny strapon z modułem nadawczym*, który mógł wysłać sygnał tylko wtedy, gdy znajdzie się *w bezpośrednim kontakcie z serwerem*.  
+
+*„Seks jako wektor ataku”* – nazywał to Miłosz, gdy pierwszy raz zaproponował ten pomysł.  
+Marcin tylko się uśmiechnął i powiedział: *„Wreszcie coś, co łączy moje dwa ulubione rzeczy.”*
+
+
+Kamil wszedł. W środku – *ciemność i gwar serwerów*, jak oddech śpiącego potwora.  
+Znalazł główny port fizyczny, podłączył pendrive… i poczuł, jak coś *naciska na jego biodro z wewnątrz spodni*.  
+
+– „No tak… zapomniałem wyłączyć tryb wibracji.” – mruknął pod nosem, ale nie przerywał.  
+
+W tym momencie *zauważył czerwoną diodę* – *czujnik ruchu, który nie figurował na mapie*.  
+Ktoś *świadomie zainstalował fałszywą wersję schematu serwerowni*.  
+
+– „Kurwa…”  
+
+Zanim zdążył się wycofać, drzwi się zatrzasnęły.  
+
+
+
+*Safe House Gamma – tym samym czasem*
+
+Aleksander siedział przy stole, analizując logi z lokalnych kamer miejskich.  
+Gdzieś między klatkami *złapał ruch* – ktoś w czarnym płaszczu wchodził do Ministerstwa *tę samą trasą, co Kamil*.  
+
+– „To nie jest nasz człowiek…” – mruknął, a serce mu zamarło.  
+
+Wtedy jego laptop *odebrał sygnał* – krótki, zakodowany puls: **01001011 01100001 01101101 01101001 01101100**.  
+*KAMIL*.  
+
+Ale sygnał *nie pochodził z pendrive’a*.  
+*Pochodził z innego urządzenia. Z zabawki.*
+
+Aleks błyskawicznie uruchomił mapę sygnału.  
+– „Oni go złapali… ale on nadal nadaje.”  
+
+Wstał, chwycił kurtkę i *pendrive z kopią zapasową świadectwa Miłosza i Marcina – dokumentu, którego nikt poza nimi nie znał*.  
+
+Bo wiedział: jeśli Miłosz i Marcin zostaną użyty jako *przynęta*, to *cała Kompilacja runie*.
+
+
+
+*Flashback – fragment rozmowy Miłosza i Marcina (3 miesiące po zdarzeniu w barze)*
+
+**Miłosz**: „Mówią, że ten człowiek z baru pracuje dla wywiadu. Czy to prawda?”  
+**Marcin**: „Tak.”  
+**Miłosz**: „I co z nim robiłeś?”  
+**Marcin**: „Zmusiłem go, by przekazał mi klucze do głównego backupu rządu. Obiecał, że jeśli coś mi się stanie… opublikuje to.”  
+**Miłosz**: „A jeśli cię zdradzi?”  
+**Marcin**: „Wtedy przynajmniej… ty wiesz, gdzie szukać prawdy.”  
+
+
+*(cisza)*  
+
+
+**Miłosz**: „Nie chcę cię stracić.”  
+**Marcin**: „Wtedy nie pozwól mi odejść samemu.”
+
+
+
+
+Podziemia Ministerstwa – 03:42
+
+Kamil był przykuty do krzesła, ale *ręce miał wolne* – jakby przeciwnik *wiedział, że to jego broń*.  
+
+Przed nim stał mężczyzna w garniturze.  
+– „Kamil Filpek. 22 lata. Hacktivist. Uwielbiać publiczne wyzwania… i publiczne seksualne demonstracje.” – uśmiechnął się chłodno. – „Ciekawe, czy twój przyjaciel Aleksander wie, że masz w sobie nadajnik w straponie?”  
+
+Kamil tylko się uśmiechnął.  
+– „A ciekawe, czy twój szef wie, że *jego prywatny serwer przechowuje nagrania z dziecięcych domów*?”  
+
+Mężczyzna zbladł.  
+
+Wtedy *Kamil nacisnął palcem sekretne przyciski na oparciu krzesła* – *ukryte pod gumą, zaprojektowane przez Marcina*.  
+
+Całe pomieszczenie *zgasło*.  
+
+A z głośników serwerowni rozbrzmiało *nagranie głosowe*:
+
+**„Jeśli słyszysz to… znaczy, że Marcin nie żyje. Wtedy… uruchom protokół ‘Ślub’.”**  
+*(głos Miłosza, drżący, ale stanowczy)*
+
+
+Światła wróciły.  
+Ale Kamil już nie siedział na krześle.  
+
+Stał za mężczyzną, trzymając go za szyję jednym ramieniem, a drugą ręką – *dłoń na jego pasku*.  
+
+– „Jesteś gotów na *bezpieczny tryb*?” – szepnął mu do ucha.
+
